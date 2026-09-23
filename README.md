@@ -1,6 +1,6 @@
 # Christian Verghis
 
-Computer Science co-op student at McMaster University (class of 2027). Most recently a Software Engineer co-op at enedym (Jan–Aug 2026), building PCB test tooling, product tracking and CI/CD for switched reluctance motor production. Connected and Automated Vehicle sub-team lead on McMaster EcoCAR.
+Computer Science co-op student at McMaster University (class of 2027). Most recently a Software Engineer co-op at enedym (Jan–Aug 2026), building PCB test tooling, product tracking and CI/CD for switched reluctance motor production. Connected and Automated Vehicle sub-team member on McMaster EcoCAR.
 
 I like systems where software meets hardware: vehicles, motors, telemetry, simulation. The repos below are the side projects I keep coming back to. Everything here is MIT licensed unless the repo says otherwise.
 
