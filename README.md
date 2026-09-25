@@ -26,6 +26,11 @@ I like systems where software meets hardware: vehicles, motors, telemetry, simul
 | [dashboard](https://github.com/ChristianVerghis/dashboard) | The cockpit I run all of this from. Auto-discovers projects under one directory via a small `project.yml` manifest, shows commit activity, service health, goals and logs, and runs a nightly steward. FastAPI, no build step. |
 | [claude-statusline](https://github.com/ChristianVerghis/claude-statusline) | Three-line status line for Claude Code: context left, 5-hour and weekly quota bars, reset times, git branch. |
 
+<p align="center">
+  <img src="assets/dashboard-private.png" alt="dev dashboard in private mode: ask bar, attention strip, weekly stats, where-the-week-went bars, project tiles; personal project names blurred" width="820"><br>
+  <sub>dashboard, private mode on: ask it what is blocked, an attention strip of stale and unpushed work, the week in numbers, one tile per repo. Names blur, everything stays live.</sub>
+</p>
+
 ## Research and writing
 
 | Project | What it is |
@@ -35,15 +40,11 @@ I like systems where software meets hardware: vehicles, motors, telemetry, simul
 | classroom (private) | A synthetic research lab: 100 forecaster personas, each running a named technique, make daily calibrated predictions over an EV watchlist and get Brier-scored as they resolve. A second 500-student cohort paper-trades intraday in the browser. The point is to find which forecasting techniques stay well calibrated, not to trade. |
 
 <p align="center">
-  <img src="assets/classroom-board.png" alt="classroom board: 100 students, Brier scores, learning lab" width="820"><br>
-  <sub>classroom: the long-term cohort board. 100 students, 2,000+ resolved predictions, per-technique learning gain.</sub>
-</p>
-<p align="center">
-  <img src="assets/classroom-live.png" alt="classroom live cohort: 500 students paper-trading, coloured by session P&L" width="820"><br>
-  <sub>classroom live: 500 students paper-trading a synthetic EV universe, one square each, coloured by session P&amp;L.</sub>
+  <img src="assets/classroom-live.png" alt="classroom live session: five live price charts beside a grid of 500 student squares coloured by session P&L" width="820"><br>
+  <sub>classroom live, mid-session: live prices for the EV universe on the left, 500 students on the right, one square each, coloured by paper P&amp;L.</sub>
 </p>
 
 ## Elsewhere
 
-- Portfolio and gameplay reel: <!-- TODO: portfolio URL -->
+- Portfolio and gameplay reel: [christianverghis.vercel.app](https://christianverghis.vercel.app)
 - [caspian-sdk](https://github.com/ChristianVerghis/caspian-sdk): fork with a fix for skipping malformed channel events.
