@@ -1,6 +1,10 @@
 # Christian Verghis
 
-Computer Science co-op student at McMaster University (class of 2027). Most recently a Software Engineer co-op at enedym (Jan–Aug 2026), building PCB test tooling, product tracking and CI/CD for switched reluctance motor production. Connected and Automated Vehicle sub-team member on McMaster EcoCAR.
+Embedded software for electric vehicles. Computer Science co-op student at McMaster University, graduating April 2028.
+
+- **enedym** (Software Engineer co-op, January to December 2026): a production test kiosk and its fixture with bootloader flashing, live CAN telemetry from fielded motor drives, and product tracking for switched reluctance motor production.
+- **McMaster EcoCAR**: Connected and Automated Vehicle team; autonomous intersection navigation on a 2023 Cadillac Lyriq in C, C++ and Python, validated on a hardware-in-the-loop rig. The team placed 2nd in North America in 2026.
+- **Portfolio**: [christianverghis.vercel.app](https://christianverghis.vercel.app), with photos from the bench, a fixture bring-up write-up and the Fourfold trailer.
 
 I like systems where software meets hardware: vehicles, motors, telemetry, simulation. The repos below are the side projects I keep coming back to. Everything here is MIT licensed unless the repo says otherwise.
 
@@ -16,7 +20,7 @@ I like systems where software meets hardware: vehicles, motors, telemetry, simul
 
 | Project | What it is |
 |---|---|
-| [ATLA](https://github.com/ChristianVerghis/ATLA) | An Avatar-inspired bending game in Unreal Engine 5.8. Four elements, habitat levels, an AI duel opponent, C++ gameplay module plus Blueprints, and a Python remote-control layer that drives the editor for automated capture. Gameplay reel on my portfolio. |
+| [Fourfold](https://github.com/ChristianVerghis/Fourfold) | A four-element bending combat game in Unreal Engine 5.8: Gameplay Ability System element kits in C++, themed habitats, an AI duel opponent, 16 chained combos, and a Python remote-control layer that drives the editor for automated capture. Trailer on my portfolio. |
 
 ## Tools and agents
 
@@ -46,5 +50,5 @@ I like systems where software meets hardware: vehicles, motors, telemetry, simul
 
 ## Elsewhere
 
-- Portfolio and gameplay reel: [christianverghis.vercel.app](https://christianverghis.vercel.app)
+- Portfolio, résumé and the Fourfold trailer: [christianverghis.vercel.app](https://christianverghis.vercel.app)
 - [caspian-sdk](https://github.com/ChristianVerghis/caspian-sdk): fork with a fix for skipping malformed channel events.
